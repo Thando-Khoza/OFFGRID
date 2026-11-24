@@ -1,0 +1,25 @@
+@"
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Testing cache
+.pytest_cache/
+
+# Local databases
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+"@ | Set-Content .\.gitignore

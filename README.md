@@ -60,10 +60,8 @@ OFFGRID/
 
 ### 1. Clone the Repository
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Thando-Khoza/OFFGRID.git
 cd OFFGRID
-```
 
 ### 2. Create a Virtual Environment
 
